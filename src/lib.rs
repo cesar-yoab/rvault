@@ -1,4 +1,4 @@
-mod command;
+mod console;
 
 #[doc(hidden)]
-pub use command::Rvault;
+pub use console::Rvault;
